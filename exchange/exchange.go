@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/daethereum/pool/storage"
-	"github.com/daethereum/pool/util"
+	"github.com/jakubartur/pool/storage"
+	"github.com/jakubartur/pool/util"
 	"io/ioutil"
 )
 
