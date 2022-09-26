@@ -17,8 +17,8 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/daethereum/pool/storage"
-	"github.com/daethereum/pool/util"
+	"github.com/jakubartur/pool/storage"
+	"github.com/jakubartur/pool/util"
 	"github.com/robfig/cron"
 )
 
